@@ -1,0 +1,15 @@
+.alertWrapper .MuiAlert-message {
+     padding: 4px 0 !important;
+     width: 100%;
+     text-align: left;
+}
+
+.alertWrapper .MuiSvgIcon-fontSizeMedium {
+    cursor: pointer;
+    text-align: end;
+    float: right;
+}
+/* 
+.MuiBackdrop-root{
+    z-index: 1500;
+} */
